@@ -104,6 +104,7 @@ const certifications = [
   "Google Cybersecurity Professional",
   "CIW — Certified Internet Web Professional",
   "ITIL V3 — Customer Service Management",
+  "Six Sigma Yellow Belt",
   "Certified Gracie Jiu-Jitsu Instructor",
   "Augment MBA — In Progress",
 ];
@@ -226,7 +227,7 @@ export default function App() {
                   <div className="flex justify-between items-baseline">
                     <div>
                       <p className="text-sm font-medium text-text-primary">
-                        Bachelor of Arts
+                        Bachelor of Science
                       </p>
                       <p className="text-sm text-text-secondary">
                         Washington Adventist University, MD
@@ -244,6 +245,14 @@ export default function App() {
                       </p>
                     </div>
                     <span className="text-xs text-text-muted">2010</span>
+                  </div>
+                  <div className="flex justify-between items-baseline">
+                    <div>
+                      <p className="text-sm font-medium text-text-primary">
+                        Palm Beach Code School
+                      </p>
+                    </div>
+                    <span className="text-xs text-text-muted">2022</span>
                   </div>
                 </div>
               </div>
