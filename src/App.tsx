@@ -254,6 +254,17 @@ export default function App() {
                     </div>
                     <span className="text-xs text-text-muted">2022</span>
                   </div>
+                  <div className="flex justify-between items-baseline">
+                    <div>
+                      <p className="text-sm font-medium text-text-primary">
+                        MBA (In Progress)
+                      </p>
+                      <p className="text-sm text-text-secondary">
+                        Augment MBA Program
+                      </p>
+                    </div>
+                    <span className="text-xs text-text-muted">2026</span>
+                  </div>
                 </div>
               </div>
 
