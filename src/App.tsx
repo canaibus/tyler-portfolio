@@ -16,10 +16,10 @@ const experience = [
     tags: ["React", "Next.js", "AI/ML", "Facebook Ads API", "SaaS", "Operations"],
   },
   {
-    period: "2026 — Present",
+    period: "2025 — Present",
     title: "Software Developer",
     company: "Daru Performance Division",
-    companyUrl: "https://daru-demo.vercel.app",
+    companyUrl: "https://darustrongnutrition.com",
     description:
       "Building the full-stack platform for a performance coaching division partnered with Marek Health. React + TypeScript frontend, Supabase backend, readiness scoring, red flag escalation, and a client management system across three service tiers.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Supabase", "Vercel"],
@@ -302,6 +302,7 @@ export default function App() {
                 </div>
               </div>
 
+              {/* TODO: uncomment when resume.pdf is added to /public
               <a
                 href="/resume.pdf"
                 className="group mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-text-primary hover:text-accent transition-colors"
@@ -311,6 +312,7 @@ export default function App() {
                   <path fillRule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clipRule="evenodd" />
                 </svg>
               </a>
+              */}
             </Section>
 
             {/* Projects */}
