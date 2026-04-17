@@ -197,7 +197,7 @@ export default function App() {
                   across three tiers.
                 </p>
                 <p>
-                  Outside of work, I'm a{" "}
+                  Outside of work, I'm a Judo athlete and{" "}
                   <a
                     href="https://www.gracieuniversity.com"
                     className="text-text-primary hover:text-accent transition-colors"
