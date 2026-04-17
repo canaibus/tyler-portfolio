@@ -193,8 +193,7 @@ export default function App() {
                   </a>{" "}
                   — a React + TypeScript app with Supabase on the backend,
                   partnered with Marek Health. Readiness scoring, coach dashboards,
-                  automated escalation, the whole stack. It serves 325+ athletes
-                  across three tiers.
+                  automated escalation, the whole stack.
                 </p>
                 <p>
                   Outside of work, I'm a Judo athlete and{" "}
